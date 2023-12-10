@@ -1,0 +1,4 @@
+name = "ExamplePkg"
+uuid = "87a955ec-acbc-414b-b761-70d50e2759da"
+authors = ["jpb6799 "]
+version = "0.1.0"
